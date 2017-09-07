@@ -1,7 +1,7 @@
 /*Base Style */
 *{
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 15px;
 }
 body {
     
@@ -20,7 +20,8 @@ h1 {
     font-size: 175%;
 }
 p { 
-             padding: 10%;
+    
+padding: 6%;
     
 }
 #container {
@@ -50,7 +51,7 @@ section {
 
 #eins, #zwei, #drei {
  
-         font-family: fantasy, monospace, sans-serif;
+         font-family: fantasy, cursive, serif;
          font-size: 125%;
          width: 30%;
          height: 17%;
