@@ -67,7 +67,7 @@ hr {
 	border: 1px solid white;
     position: relative;
     margin-bottom: 5%;
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
@@ -102,7 +102,7 @@ hr {
 .sushi-header {
     background-color: #7A4D61;
 }
-.paragraph-chicken {
+.paragraph-chicken, .paragraph-beef, .paragraph-sushi {
     padding-bottom: 2%;
     margin: 0;
     color: #F2E0D2;
