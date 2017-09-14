@@ -8,10 +8,6 @@ body {
     font-family: 'Oxygen', sans-serif;
 
 }
-.navbar-brand {
-  font-size: 2em;
-  border: 0 0 10px 10px;
-}
 
 #header-nav {
   border: 0;
@@ -34,10 +30,10 @@ body {
   background-color: #FFFFFF;
 }
 
-.nav-brand {
-  color: #522B4A;
-  font-size: 130%;
+.navbar-brand {
+  font-size: 150%;
     padding-top: 10px;
+    font-weight: 1000;
 }
 
 #nav-list {
