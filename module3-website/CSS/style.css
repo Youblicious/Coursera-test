@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    font-size: 16px;
+    background-color: #E2D5FF;
+    font-family: 'Oxygen', sans-serif;
+
+}
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #E3BEBC;
+  color: #C4E3ED;
+    padding: 2%;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.navbar-header button.navbar-toggle {
+    margin-top: -40px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #522B4A;
+  font-size: 130%;
+    padding-top: 10px;
+}
+
+#nav-list {
+  margin-top: 10px;
+    color: white;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+hr {
+  border-color: white;
+}
+.body-head {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}
+#chicken-div, #beef-div, #sushi-div {
+	border: 1px solid white;
+    position: relative;
+    margin-bottom: 5%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+#chicken-div {
+	background-color: #643F70;
+}
+#beef-div {
+	background-color: #4A4829;
+}
+#sushi-div {
+	background-color: #381117;
+}
+.chicken-header, .beef-header, .sushi-header {
+    position: absolute;
+    right: 0%;
+    width: 100%;
+    padding-bottom: 1.5%;
+    padding-top: 1%;
+    color: black;
+    border: 1px solid black;
+    font-size: 105%;
+    font-weight: bold;
+}
+.chicken-header {
+    background-color: #994E55;
+
+}
+.beef-header {
+    background-color: #4A6729;
+
+}
+.sushi-header {
+    background-color: #7A4D61;
+}
+.paragraph-chicken {
+    padding-bottom: 2%;
+    margin: 0;
+    color: #F2E0D2;
+}
+p {
+    margin: 0;
+    padding-top: 60px;
+}
+.item {
+	color: black;
+    padding: 15px;
+    font-size: 150%;
+}
